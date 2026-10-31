@@ -5,5 +5,4 @@
 + 현재 관리자 비번 (admin)
 
 * 수정 및 배포 시 수정자 및 원작자(jin 또는 jin1563)명 입력
-* 버그 제보 및 수정 요청
-^ [📫 : jin1563](mailto:Developerjin1563@gmail.com)
+* 버그 제보 및 수정 요청 [📫 : jin1563](mailto:Developerjin1563@gmail.com)
