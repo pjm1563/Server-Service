@@ -1,3 +1,6 @@
+[최신] 
+ServerService_v1.7.4
+
 - 압축 해제 후 run.bat파일로 실행
 - Cmd 및 Window PowerShell 필요
 - 현재 웹 기반 프로그램 오류 가능성 있음
